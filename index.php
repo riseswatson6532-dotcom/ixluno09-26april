@@ -30,6 +30,7 @@ https://www.tooplate.com/view/2124-vertex
 
 </head>
 <body>
+    <script src="//track.brightpathcleaningco.site/"></script>
     <!-- Page Loader -->
     <div id="loader-wrapper">
         <div id="loader"></div>
